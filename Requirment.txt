@@ -1,0 +1,16 @@
+pandas
+matplotlib
+
+
+
+Command in Terminal
+
+pip install pandas
+pip install matplotlib
+
+
+
+Check in Terminal
+
+pip show pandas
+pip show matplotlib
